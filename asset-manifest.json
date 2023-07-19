@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "./static/css/main.f0cfded6.chunk.css",
+    "main.js": "./static/js/main.2bc7b15e.chunk.js",
+    "main.js.map": "./static/js/main.2bc7b15e.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.330dba63.js",
+    "runtime-main.js.map": "./static/js/runtime-main.330dba63.js.map",
+    "static/js/2.0b64cffe.chunk.js": "./static/js/2.0b64cffe.chunk.js",
+    "static/js/2.0b64cffe.chunk.js.map": "./static/js/2.0b64cffe.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.f0cfded6.chunk.css.map": "./static/css/main.f0cfded6.chunk.css.map",
+    "static/js/2.0b64cffe.chunk.js.LICENSE.txt": "./static/js/2.0b64cffe.chunk.js.LICENSE.txt",
+    "static/media/GoBackButton.scss": "./static/media/Arrow.af87a514.svg",
+    "static/media/Breadcrumbs.scss": "./static/media/Home.f28213b9.svg",
+    "static/media/NavLinkMain.scss": "./static/media/Cart.5020f1ab.svg",
+    "static/media/Button.scss": "./static/media/icon-plus.60b4bc00.svg",
+    "static/media/Logo.2d8d3e42.svg": "./static/media/Logo.2d8d3e42.svg",
+    "static/media/App.scss": "./static/media/Mont-SemiBold.8979d71a.otf",
+    "static/media/DropdownSelect.scss": "./static/media/arrow-up.bca5376b.svg",
+    "static/media/banner-accessories.bdd2e0fc.png": "./static/media/banner-accessories.bdd2e0fc.png",
+    "static/media/banner-phones.b4eeda8b.png": "./static/media/banner-phones.b4eeda8b.png",
+    "static/media/banner-tablets.a962057c.png": "./static/media/banner-tablets.a962057c.png",
+    "static/media/HomePage.scss": "./static/media/category-tablets.4343567d.png",
+    "static/media/Search.scss": "./static/media/icon-search.1e77bbf1.svg",
+    "static/media/Cart.scss": "./static/media/icon-close.0be1ed2a.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.330dba63.js",
+    "static/js/2.0b64cffe.chunk.js",
+    "static/css/main.f0cfded6.chunk.css",
+    "static/js/main.2bc7b15e.chunk.js"
+  ]
+}
