@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "./static/css/main.a16bf423.chunk.css",
-    "main.js": "./static/js/main.a5e02ba9.chunk.js",
-    "main.js.map": "./static/js/main.a5e02ba9.chunk.js.map",
+    "main.css": "./static/css/main.5461ce15.chunk.css",
+    "main.js": "./static/js/main.2ad70b54.chunk.js",
+    "main.js.map": "./static/js/main.2ad70b54.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.330dba63.js",
     "runtime-main.js.map": "./static/js/runtime-main.330dba63.js.map",
-    "static/js/2.97da4279.chunk.js": "./static/js/2.97da4279.chunk.js",
-    "static/js/2.97da4279.chunk.js.map": "./static/js/2.97da4279.chunk.js.map",
+    "static/js/2.f937dc76.chunk.js": "./static/js/2.f937dc76.chunk.js",
+    "static/js/2.f937dc76.chunk.js.map": "./static/js/2.f937dc76.chunk.js.map",
     "index.html": "./index.html",
-    "static/css/main.a16bf423.chunk.css.map": "./static/css/main.a16bf423.chunk.css.map",
-    "static/js/2.97da4279.chunk.js.LICENSE.txt": "./static/js/2.97da4279.chunk.js.LICENSE.txt",
+    "static/css/main.5461ce15.chunk.css.map": "./static/css/main.5461ce15.chunk.css.map",
+    "static/js/2.f937dc76.chunk.js.LICENSE.txt": "./static/js/2.f937dc76.chunk.js.LICENSE.txt",
     "static/media/GoBackButton.scss": "./static/media/Arrow.af87a514.svg",
     "static/media/Breadcrumbs.scss": "./static/media/Home.f28213b9.svg",
     "static/media/NavLinkMain.scss": "./static/media/Cart.5020f1ab.svg",
@@ -20,14 +20,16 @@
     "static/media/banner-accessories.bdd2e0fc.png": "./static/media/banner-accessories.bdd2e0fc.png",
     "static/media/banner-phones.b4eeda8b.png": "./static/media/banner-phones.b4eeda8b.png",
     "static/media/banner-tablets.a962057c.png": "./static/media/banner-tablets.a962057c.png",
-    "static/media/HomePage.scss": "./static/media/category-tablets.4343567d.png",
+    "static/media/category-accessories.4333225f.png": "./static/media/category-accessories.4333225f.png",
+    "static/media/category-phones.a089d6e2.png": "./static/media/category-phones.a089d6e2.png",
+    "static/media/category-tablets.4343567d.png": "./static/media/category-tablets.4343567d.png",
     "static/media/Search.scss": "./static/media/icon-search.1e77bbf1.svg",
     "static/media/CartItem.scss": "./static/media/icon-close.0be1ed2a.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.330dba63.js",
-    "static/js/2.97da4279.chunk.js",
-    "static/css/main.a16bf423.chunk.css",
-    "static/js/main.a5e02ba9.chunk.js"
+    "static/js/2.f937dc76.chunk.js",
+    "static/css/main.5461ce15.chunk.css",
+    "static/js/main.2ad70b54.chunk.js"
   ]
 }
