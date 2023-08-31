@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/react_phone-catalog/static/css/main.8087dcec.chunk.css",
+    "main.css": "/react_phone-catalog/static/css/main.6c48af85.chunk.css",
     "main.js": "/react_phone-catalog/static/js/main.da207ab1.chunk.js",
     "main.js.map": "/react_phone-catalog/static/js/main.da207ab1.chunk.js.map",
     "runtime-main.js": "/react_phone-catalog/static/js/runtime-main.0e28853e.js",
@@ -8,7 +8,7 @@
     "static/js/2.9f5fb08b.chunk.js": "/react_phone-catalog/static/js/2.9f5fb08b.chunk.js",
     "static/js/2.9f5fb08b.chunk.js.map": "/react_phone-catalog/static/js/2.9f5fb08b.chunk.js.map",
     "index.html": "/react_phone-catalog/index.html",
-    "static/css/main.8087dcec.chunk.css.map": "/react_phone-catalog/static/css/main.8087dcec.chunk.css.map",
+    "static/css/main.6c48af85.chunk.css.map": "/react_phone-catalog/static/css/main.6c48af85.chunk.css.map",
     "static/js/2.9f5fb08b.chunk.js.LICENSE.txt": "/react_phone-catalog/static/js/2.9f5fb08b.chunk.js.LICENSE.txt",
     "static/media/GoBackButton.scss": "/react_phone-catalog/static/media/Arrow.af87a514.svg",
     "static/media/Breadcrumbs.scss": "/react_phone-catalog/static/media/Home.f28213b9.svg",
@@ -33,7 +33,7 @@
   "entrypoints": [
     "static/js/runtime-main.0e28853e.js",
     "static/js/2.9f5fb08b.chunk.js",
-    "static/css/main.8087dcec.chunk.css",
+    "static/css/main.6c48af85.chunk.css",
     "static/js/main.da207ab1.chunk.js"
   ]
 }
