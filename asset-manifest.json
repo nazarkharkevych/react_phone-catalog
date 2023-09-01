@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/react_phone-catalog/static/css/main.6c48af85.chunk.css",
-    "main.js": "/react_phone-catalog/static/js/main.da207ab1.chunk.js",
-    "main.js.map": "/react_phone-catalog/static/js/main.da207ab1.chunk.js.map",
+    "main.css": "/react_phone-catalog/static/css/main.eb45e0de.chunk.css",
+    "main.js": "/react_phone-catalog/static/js/main.70819520.chunk.js",
+    "main.js.map": "/react_phone-catalog/static/js/main.70819520.chunk.js.map",
     "runtime-main.js": "/react_phone-catalog/static/js/runtime-main.0e28853e.js",
     "runtime-main.js.map": "/react_phone-catalog/static/js/runtime-main.0e28853e.js.map",
-    "static/js/2.9f5fb08b.chunk.js": "/react_phone-catalog/static/js/2.9f5fb08b.chunk.js",
-    "static/js/2.9f5fb08b.chunk.js.map": "/react_phone-catalog/static/js/2.9f5fb08b.chunk.js.map",
+    "static/js/2.41188b46.chunk.js": "/react_phone-catalog/static/js/2.41188b46.chunk.js",
+    "static/js/2.41188b46.chunk.js.map": "/react_phone-catalog/static/js/2.41188b46.chunk.js.map",
     "index.html": "/react_phone-catalog/index.html",
-    "static/css/main.6c48af85.chunk.css.map": "/react_phone-catalog/static/css/main.6c48af85.chunk.css.map",
-    "static/js/2.9f5fb08b.chunk.js.LICENSE.txt": "/react_phone-catalog/static/js/2.9f5fb08b.chunk.js.LICENSE.txt",
+    "static/css/main.eb45e0de.chunk.css.map": "/react_phone-catalog/static/css/main.eb45e0de.chunk.css.map",
+    "static/js/2.41188b46.chunk.js.LICENSE.txt": "/react_phone-catalog/static/js/2.41188b46.chunk.js.LICENSE.txt",
     "static/media/GoBackButton.scss": "/react_phone-catalog/static/media/Arrow.af87a514.svg",
     "static/media/Breadcrumbs.scss": "/react_phone-catalog/static/media/Home.f28213b9.svg",
-    "static/media/NavLinkMain.scss": "/react_phone-catalog/static/media/Cart.5020f1ab.svg",
+    "static/media/Cart.5020f1ab.svg": "/react_phone-catalog/static/media/Cart.5020f1ab.svg",
     "static/media/Button.scss": "/react_phone-catalog/static/media/icon-plus.60b4bc00.svg",
     "static/media/Logo.2d8d3e42.svg": "/react_phone-catalog/static/media/Logo.2d8d3e42.svg",
     "static/media/App.scss": "/react_phone-catalog/static/media/Mont-SemiBold.8979d71a.otf",
@@ -32,8 +32,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.0e28853e.js",
-    "static/js/2.9f5fb08b.chunk.js",
-    "static/css/main.6c48af85.chunk.css",
-    "static/js/main.da207ab1.chunk.js"
+    "static/js/2.41188b46.chunk.js",
+    "static/css/main.eb45e0de.chunk.css",
+    "static/js/main.70819520.chunk.js"
   ]
 }
